@@ -37,15 +37,12 @@ public class App
     		  
     if(5<3);{
     	System.out.println("5 si es mayor 3");
-    } 
-    else {
-    	System.out.println("5 no es mayor 3");
-    }
-    }
+    
+   
     
     		  
     		  
         
-     
+    }
     }
 }
